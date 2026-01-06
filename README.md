@@ -55,7 +55,7 @@ I won't be able to respond to emails for some time.
 
 Keep me and my work alive!
 
-<a href="https://github.com/sponsors/daijro" style="text-decoration: none;">
+<a href="https://github.com/sponsors/Eastman6251" style="text-decoration: none;">
 <img src="https://img.shields.io/badge/sponsor-30363D?style=for-the-badge&logo=GitHub-Sponsors&logoColor=#EA4AAA">
 </a>
 <a href="https://ko-fi.com/Z8Z2EFH5A" style="text-decoration: none;">
