@@ -19,14 +19,9 @@ clean, efficient, and scalable code. 👨‍💻*
 ---
 
 #### ✨ My hobbies include:
-- Web automation R&D
-- Sysadmin & IT
-- Ethical hacking, VAPT, & lateral movement (red teaming)
-- RE & binary analysis, A64
-- Cloud architecture & deployment (AWS IaC)
-- Crypto mining
-- Linux ❤️
-
+🔭 Focus: Scalable Architecture, AI/ML Integration, Full-Cycle Development.
+🌱 Current Stack: PHP, Python (Django/FastAPI), React, Node.js, and Cloud Infrastructure.
+⚡ Philosophy: Clean code, efficient delivery, and continuous improvement.
 ---
 
 #### 💻 Skills
