@@ -39,20 +39,14 @@ clean, efficient, and scalable code. 👨‍💻*
 #### 👤 Contact
 
 <div style="margin-bottom: 0;">
-📨 Email: <a href="mailto:daijro.dev@gmail.com">@gmail.com</a>
+📨 Email: <a href="mailto:>eastmanjoshuah@gmail.com">eastmanjoshuah@gmail.com</a>
 </div>
 
-<sub>PGP: <a href="https://keys.openpgp.org/vks/v1/by-fingerprint/5B5C9F88CE013114A9C282194FEC3157674C4470">5B5C 9F88 CE01 3114 A9C2 8219 4FEC 3157 674C 4470</a>
-</sub>
-
 <sub>
-I won't be able to respond to emails for some time.
+I am currently open to discussing new opportunities and collaborations.
 </sub>
 
 <hr width=50>
 
-#### ⚡ Donate
-
-Keep me and my work alive!
-
+================
 Crafted with ❤️ by Eastman
