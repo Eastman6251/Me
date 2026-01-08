@@ -34,7 +34,7 @@ clean, efficient, and scalable code. 👨‍💻*
 
 - Database:
   
-  <img src="https://skillicons.dev/icons?i=graphql,mysql,postgres,mongodb,dynamodb,mariadb,sqlite,redis,firebase" />
+  <img src="https://skillicons.dev/icons?i=graphql,mysql,postgres,mongodb,dynamodb,sqlite,redis,firebase" />
   
 - CMS:
   
