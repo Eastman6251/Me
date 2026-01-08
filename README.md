@@ -32,19 +32,19 @@ clean, efficient, and scalable code. 👨‍💻*
   
   <img src="https://skillicons.dev/icons?i=nodejs,nestjs,express,php,laravel,symfony,python,django,flask" />
 
-- Database -
+- Database:
   
   <img src="https://skillicons.dev/icons?i=fastapi,graphql,mysql,postgres,mongodb,dynamodb" />
   
-- CMS -
+- CMS:
   
   <img src="https://skillicons.dev/icons?i=wordpress,shopify" />
 
-- AI -
+- AI:
   
   <img src="https://skillicons.dev/icons?i=ai,tensorflow,pytorch" />
 
-- DevOps -
+- DevOps:
   
   <img src="https://skillicons.dev/icons?i=aws,docker,vercel,netlify" />
 
