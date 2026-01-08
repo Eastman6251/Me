@@ -30,7 +30,7 @@ clean, efficient, and scalable code. 👨‍💻*
 
 - Back-End:
   
-  <img src="https://skillicons.dev/icons?i=nodejs,nestjs,express,php,laravel,symfony,python,django,flask,fastapi,graphql,spring" />
+  <img src="https://skillicons.dev/icons?i=nodejs,nestjs,express,php,laravel,symfony,python,django,flask,fastapi,spring" />
 
 - Database:
   
