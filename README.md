@@ -36,17 +36,17 @@ clean, efficient, and scalable code. 👨‍💻*
   
   <img src="https://skillicons.dev/icons?i=graphql,mysql,postgres,mongodb,dynamodb,sqlite,redis,firebase" />
   
-- CMS:
+- CMS & E-Commerce:
   
-  <img src="https://skillicons.dev/icons?i=wordpress,joomla,drupal,magento,wooCommerce,strapi,contentful,sanity" />
+  <img src="https://skillicons.dev/icons?i=wordpress,joomla,drupal,shopify,magento,woocommerce,strapi,contentful,sanity" />
 
-- AI:
+- AI / Machine Learning:
   
-  <img src="https://skillicons.dev/icons?i=ai,tensorflow,pytorch,jupyter" />
+  <img src="https://skillicons.dev/icons?i=openai,tensorflow,pytorch,jupyter,python" />
 
-- DevOps:
+- DevOps & Cloud:
   
-  <img src="https://skillicons.dev/icons?i=aws,docker,vercel,netlify" />
+  <img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,githubactions,vercel,netlify,cloudflare" />
 
 #### 🔨 Workspace
 
